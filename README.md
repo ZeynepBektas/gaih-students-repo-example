@@ -1,4 +1,4 @@
-# GAIH Student Repo Example
+# ZEYNEP BEKTAŞ PYTHON COURSE
 ![](img/logo.png)
 
 **Course Date:** 15.02.2021  
